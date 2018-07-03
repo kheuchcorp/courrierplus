@@ -1,0 +1,239 @@
+
+body {
+  font-family: 'Lato';
+  color: #4A4A4A;
+}
+
+img
+{
+  max-width: 100%;
+}
+
+.help_img
+{
+  padding-top: 20px;
+  width: 50%;
+  display: block; /* centering */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center
+{
+  text-align: center;
+}
+
+.blue
+{
+  color: #2F8FFF;
+}
+
+.premium
+{
+  text-align: center;
+  font-size: 13px;
+  color: #393939;
+}
+
+.premium .gray
+{
+  background-color: #F5F5F8;
+  font-size: 16px;
+  line-height: 0.5em;
+  margin-left: -15px;
+  margin-right: -15px;
+  padding-top: 8px;
+  padding-bottom: 1px;
+}
+
+.premium small
+{
+  color: #8F8E94;
+  font-size: 13px;
+}
+
+.premium img
+{
+  width: 100%;
+  max-width: 350px;
+}
+
+.premium_title
+{
+  font-weight: 900;
+  margin-top: 30px;
+  margin-bottom: -14px;
+}
+
+.to_translate
+{
+  font-size: 24px;
+  font-weight: 900;
+  background-color: #D00;
+  color: #FFF;
+  text-align: center;
+}
+
+#content {
+  font-weight: 200;
+  word-wrap: break-word;
+  text-align: justify;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+#groupid i {
+  margin-right: 10px;
+  font-size: 18px;
+  color: #CCC;
+}
+
+#help_frame {
+  text-align: center;
+}
+
+#help_frame {
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 400px;
+  height: 960px;
+}
+
+#help_frame iframe {
+  width: 100%;
+  height: 100%;
+}
+
+.mention
+{
+  font-size: 13px;
+  font-weight: 100;
+}
+
+.sender_logo
+{
+  display: block; /* centering */
+  margin-left: auto;
+  margin-right: auto;
+  height: 100px;
+}
+
+.sender_title
+{
+  display: inline-block;
+  background-color: #DDD;
+  width: 100%;
+}
+
+.sender_title img
+{
+  float: left;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 8px;
+  vertical-align: middle;
+}
+
+.sender_title h1 {
+  color: #444;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.version a {
+  padding-right: 20px;
+}
+
+.version .active {
+  font-weight: 700;
+  color: #000;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+h4 {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+h5 {
+  font-size: 13px;
+  font-weight: 600;
+}
+
+h6 {
+  font-size: 12px;
+  font-weight: 600;
+}
+
+ul{
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+ul li {
+    background-size: 13px 10px;
+    background-image: url(check2x.png);
+    background-repeat: no-repeat;
+    background-position: 0px 7px;
+    padding-left: 25px;
+    margin-bottom: 10px;
+}
+
+.app {
+  overflow: auto;
+  background-image: none;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 40px;
+}
+
+.app .bar {
+  border-bottom: 1px solid #ddd;
+}
+
+.app img {
+  float: left;
+  height: 60px;
+  padding-left: 0px;
+  padding-right: 10px;
+  margin-bottom: 5px;
+}
+
+.app a {
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+}
+
+.app a h4 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.app a p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  min-height: 45px;
+}
+
+#version {
+  font-size: 10px;
+}

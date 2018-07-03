@@ -1,0 +1,20 @@
+
+div .block {
+  background-color: #34A3D6;
+  color: white;
+  width: 360px;
+  text-align: center;
+  font-size: 80%;
+  float: left;
+  margin-right: 20px;
+  padding: 10px;
+}
+
+code {
+  background-color: #333333;
+  color: #BBBBBB;
+  font-size: 80%;
+  float: left;
+  margin-bottom: 40px;
+  white-space: pre;
+}
