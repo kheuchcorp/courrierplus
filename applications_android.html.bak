@@ -21,16 +21,16 @@
   <div class="row">
   
     <div class="app col-sm-6">
-      <a href="https://play.google.com/store/apps/details?id=fr.laposte.lapostemobile" target="_blank">
+      <a href="market://details?id=fr.laposte.lapostemobile">
         <img src="img/apps/LaPoste.png" />
         <h4>LA POSTE</h4>
         <p>Où que vous soyez, retrouvez les services pratiques de La Poste !</p>
       </a>
       <div class="bar"></div>
     </div>
-    
+  
     <div class="app col-sm-6">
-      <a href="https://play.google.com/store/apps/details?id=com.laposte.esante" target="_blank" rel="external">
+      <a href="market://details?id=com.laposte.esante">
         <img src="img/apps/LaPosteeSante.png" />
         <h4>LA POSTE eSANTE</h4>
         <p>Devenez acteur de votre santé.</p>
@@ -48,7 +48,7 @@
     </div>
   
     <div class="app col-sm-6">
-      <a href="https://play.google.com/store/apps/details?id=com.stg.chronopost">
+      <a href="market://details?id=com.stg.chronopost">
         <img src="img/apps/Chronopost.png" />
         <h4>CHRONOPOST</h4>
         <p>Suivez vos envois et trouvez le point de retrait le plus proche.</p>
@@ -58,7 +58,6 @@
   
   </div>
 </div>
-
       </div> <!-- #content -->
   </body>
 </html>
